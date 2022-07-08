@@ -23,7 +23,7 @@ const About = () => {
                     className="object-cover object-center h-full w-full"
                     width={1110}
                     height={1110}
-                    src="/img/jyoti.png"
+                    src="/img/jyoti.PNG"
                   />
                 </div>
                 <div className="flex flex-col items-center text-center justify-center">
