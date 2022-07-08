@@ -3,8 +3,6 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-import { useState } from "react";
-
 const Navbar = () => {
   return (
     <header className="text-black-600 body-font bg-orange-400 sticky-top shadow-xl top-0 sticky overflow-hidden z-10 font-abc">
