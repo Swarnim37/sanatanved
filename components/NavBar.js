@@ -35,7 +35,7 @@ const Navbar = () => {
             </Link>
             <Link href="https://www.patreon.com/sanatanastrology">
               <a target="_blank" className="mr-5 hover:text-gray-900">
-                Member &#39;s Content
+                Member&#39;s Content
               </a>
             </Link>
             <Link href="/contact">
