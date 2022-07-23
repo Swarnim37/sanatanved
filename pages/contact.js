@@ -25,12 +25,12 @@ const Contact = () => {
 
           <span className="inLine-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
             <Link href="https://www.facebook.com/Sanatan-Vedic-Astrology-106720835429910">
-              <a className="text-gray-900">
+              <a target="_blank" className="text-gray-900">
                 <AiFillFacebook />
               </a>
             </Link>
             <Link href="https://twitter.com/SanatanAstro3">
-              <a className="ml-3 text-gray-900">
+              <a target="_blank" className="ml-3 text-gray-900">
                 <AiFillTwitterSquare />
               </a>
             </Link>

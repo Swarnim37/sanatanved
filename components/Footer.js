@@ -58,12 +58,12 @@ const Footer = () => {
                 <a className="text-gray-1000 mr-6">Cookies Policy</a>
               </Link>
               <Link href="https://www.facebook.com/Sanatan-Vedic-Astrology-106720835429910">
-                <a className="text-gray-900 mt-1">
+                <a target="_blank" className="text-gray-900 mt-1">
                   <AiFillFacebook />
                 </a>
               </Link>
               <Link href="https://twitter.com/SanatanAstro3">
-                <a className="ml-3 text-gray-900 mt-1 ">
+                <a target="_blank" className="ml-3 text-gray-900 mt-1 ">
                   <AiFillTwitterSquare />
                 </a>
               </Link>
