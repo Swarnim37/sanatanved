@@ -76,10 +76,10 @@ const Sendbd = () => {
             for certain actions. The reading intends to instruct you about the
             most suitable direction of your life to advance towards your
             fulfilments and spiritual progress. You can decide to follow or not
-            the indications given. The stars do not control your life; you have
-            free will and need to use your judgment. The indications given in
-            the reading describe the possibilities (and probabilities) and are
-            not responsible for any loss, damage, or problems.
+            the indications given. You have certain free will and need to use
+            your judgment. The indications given in the reading describe the
+            strongest possibilities (and probabilities) and are not responsible
+            for any loss, damage, or problems.
           </p>
         </>
       </div>
