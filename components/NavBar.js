@@ -28,7 +28,7 @@ const Navbar = () => {
             <Link href="/courses">
               <a className="mr-5 hover:text-gray-900">Courses</a>
             </Link>
-            <Link href="blog.sanatanved.com">
+            <Link href="https://blog.sanatanved.com/">
               <a target="_blank" className="mr-5 hover:text-gray-900">
                 Blog
               </a>
