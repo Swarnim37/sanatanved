@@ -7,10 +7,13 @@ export default function Home() {
     <div>
       <Head>
         <title>Sanatan Astrology</title>
-        <meta name="description" content="Vedic Astrology Services in English, Czech and Spanish Languages" />
+        <meta
+          name="description"
+          content=" Sanatan Astrology , Vedic Astrology Services in English, Czech and Spanish Languages"
+        />
         <meta
           name="Keywords"
-          content=" Vedic Astrology reading , consultation and other services in English, Czech and Spanish Languages"
+          content=" Sanatan Astrology , Vedic Astrology reading , consultation and other services in English, Czech and Spanish Languages"
         />
         <link rel="icon" href="/img/logosvg.svg" />
       </Head>
