@@ -8,6 +8,10 @@ export default function Home() {
       <Head>
         <title>Sanatan Astrology</title>
         <meta
+          name="google-site-verification"
+          content="a3mXJiJi_VwknA08QWrXQRARTk-74QPBnTq1EyAwIXY"
+        />
+        <meta
           name="description"
           content=" Sanatan Astrology , Vedic Astrology Services in English, Czech and Spanish Languages"
         />
