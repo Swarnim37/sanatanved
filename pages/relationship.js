@@ -23,7 +23,7 @@ const Relationship = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Recorded Audio of 15-30 Minutes.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               A thorough analysis of the natal chart and relevant divisional
               chart together with planetary period and transits reveals the time
               periods with a high likelihood to establish a long-term

@@ -23,7 +23,7 @@ const Childbirth = () => {
           <h2 className="title-font sm:text-2xl text-xl mb-4 mt-3 font-medium text-gray-900">
             Recorded Audio of 15-30 Minutes.
           </h2>
-          <p className="mb-8 leading-relaxed text-justify">
+          <p className="mb-8 leading-relaxed text-left">
             A thorough natal chart as well as related divisional charts
             examination of both parents together with planetary periods can show
             you when the planetary influences are the most auspicious for

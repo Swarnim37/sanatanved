@@ -23,7 +23,7 @@ const Followup = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Recorded Audio or Live online reading of 30 Minutes.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               Usually, a 30-minute reading leaves enough time to provide
               thorough responses to one or two questions for a previous client.
             </p>

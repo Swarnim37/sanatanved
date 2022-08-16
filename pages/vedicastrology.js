@@ -24,7 +24,7 @@ const Vedicastrology = () => {
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
                   Jyotish (Indian or also Vedic astrology)
                 </h2>
-                <p className="leading-relaxed text-justify space-y-10">
+                <p className="leading-relaxed text-left space-y-10">
                   Vedic astrology is sidereal astrology that originated in
                   India, in the Vedic period, a period more than 3000 years ago.
                   It is based on the Vedic philosophy that brought the terms and
@@ -69,7 +69,7 @@ const Vedicastrology = () => {
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
                   About Jyotish
                 </h2>
-                <p className="leading-relaxed text-justify space-y-4">
+                <p className="leading-relaxed text-left space-y-4">
                   The culture of ancient India is the only of the ancient
                   cultures that persist to this day, including its many customs,
                   traditional sciences (astrology, Ayurveda, yoga, ...), and
@@ -151,7 +151,7 @@ const Vedicastrology = () => {
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
                   Differences between Vedic and Western Astrology
                 </h2>
-                <p className="leading-relaxed text-justify">
+                <p className="leading-relaxed text-left">
                   Western astrology, i.e., what one commonly encounters in
                   newspapers, magazines, or even in astrological courses or on
                   the Internet, has a lot in common with the Vedic but is even

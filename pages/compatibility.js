@@ -24,7 +24,7 @@ const Compatibility = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Recorded Audio or Live online reading of 60 Minutes.
             </h2>
-            <p className="mb-8 leading-relaxed  text-justify">
+            <p className="mb-8 leading-relaxed  text-left">
               Compatibility reading – assess the compatibility of a couple,
               business partners, colleagues, parents and children. The reading
               consists of an analysis of individual charts and also an analysis

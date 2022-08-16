@@ -24,7 +24,7 @@ const Foreign = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Recorded Audio of 15-30 Minutes.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               The reading focuses on the possibility of foreign settlement. Is
               it suitable for you? Are you going to prosper abroad? If so, when
               is the best time to relocate?

@@ -39,7 +39,7 @@ const Featured = () => {
                 <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">
                   What is Vedic Astrology?
                 </h2>
-                <p className="leading-relaxed text-base text-justify">
+                <p className="leading-relaxed text-base text-left">
                   Astrology is generally used to look farther off the curtain of
                   the material world. To look into the world of subtle energies
                   that work beyond our perception, influence our lives, and
@@ -64,7 +64,7 @@ const Featured = () => {
                 <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">
                   Consultations
                 </h2>
-                <p className="leading-relaxed text-base text-justify">
+                <p className="leading-relaxed text-base text-left">
                   The sophisticated Vedic Astrology System, which has been
                   around for more than 2000 years, is very effective at
                   foretelling future trends and major events. We provide several

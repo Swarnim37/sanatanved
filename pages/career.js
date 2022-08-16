@@ -21,9 +21,9 @@ const Career = () => {
           </h1>
 
           <h2 className="title-font sm:text-4xl text-xl mb-4 font-medium text-gray-900">
-            Recorded Audio of 15-30 Minutes.
+            Recorded Audio of 15-30 Min
           </h2>
-          <p className="mb-8 leading-relaxed text-justify">
+          <p className="mb-8 leading-relaxed text-left">
             You can be interested in several different types of careers. The
             chart can show which direction is the most suitable for you, where
             you can achieve success and feel fulfilled. Planetary periods reveal

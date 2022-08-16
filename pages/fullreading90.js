@@ -23,7 +23,7 @@ const Fullreading90 = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Audio or Live online reading of 90 Minutes.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               Personal horoscope (the whole chart) – The interpretation of the
               personal horoscope will tell us what shapes our personality, what
               our abilities are, what we can excel at, where we are headed, what

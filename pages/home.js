@@ -23,7 +23,7 @@ const Home = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Recorded Audio of 15-30 Minutes.
             </h2>
-            <p className="mb-8 leading-relaxed  text-justify">
+            <p className="mb-8 leading-relaxed  text-left">
               Examination of specific areas in your chart together with
               planetary periods reveals when the probability of acquiring a
               property is very high.

@@ -23,7 +23,7 @@ const Health = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Recorded Audio of 20-30 Minutes.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               Astrology for health reading – We can identify problem areas, as
               well as the time when they may occur by carefully analyzing the
               Birth chart, divisional charts, and planetary periods. Timely

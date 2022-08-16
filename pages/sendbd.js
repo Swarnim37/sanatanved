@@ -69,7 +69,7 @@ const Sendbd = () => {
             </li>
           </ul>
           <br />
-          <p className="font-abc text-justify">
+          <p className="font-abc text-left">
             <b> DISCLAIMER:</b> Jyotish/Astrology works with probabilities and
             complex factors that determine karma. There are many variables to
             consider, so predictions are a forecast indicating the right time
